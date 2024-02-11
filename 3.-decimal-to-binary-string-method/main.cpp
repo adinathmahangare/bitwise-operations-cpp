@@ -42,3 +42,6 @@ int main()
 
     return 0;
 }
+
+//Time Complexity: O(logn)
+//Space Complexity: O(1)
